@@ -52,5 +52,13 @@ voila==0.2.6
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
+numpy
+matplotlib
+plotly
+ipywidgets
+jupyter_contrib_nbextensions
+seaborn
 voila
+openpyxl
+folium
 voila-material
